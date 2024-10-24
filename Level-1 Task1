@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Ravyasri-Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Ravyasri</h1>
+        <p>"Hi, I'm Ravyasri, a BTech student in the stream of Computer Science and Engineering with a passion for technology and innovation. I'm driven to learn, explore, and create impactful solutions."
+        </p>
+    </header>
+
+    <section id="about">
+        <img src="D:\eng.jpg" alt="Ravyasri" />
+        <h2>
+            "Hello, I'm Ravyasri, a passionate and driven BTech student pursuing Computer Science and Engineering.With a strong foundation in C,Python,Java. I'm eager to explore the latest technologies and innovations.Outside academics, I enjoy by playing games,watching Television, which help me develop valuable skills like teamwork, problem-solving, and communication. My goal is to become a successful Software engineer and make meaningful contributions to the tech industry.I'm excited to learn from others, collaborate on projects, and grow as a professional in the field."
+            </h2>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C</li>
+            <li>Java</li>
+            <li>Web development</li>
+            <li>Python</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project Title</h3>
+            <img src="project-image.jpg" alt="Project Title" />
+            <p>Short description of the project.</p>
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <a href="resume.pdf" download>Download my resume</a>
+    </section>
+
+    <section id="contact">
+        <h2>123456789</h2>
+        <p>Email: Abc.email@example.com</p>
+        <p>Phone: (123) 456-7890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All
+ rights reserved.</p>
+    </footer>
+</body>
+</html>
